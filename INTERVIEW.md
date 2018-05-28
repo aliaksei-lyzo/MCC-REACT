@@ -62,7 +62,7 @@
     (EN) Flux - https://facebook.github.io/flux/
     (EN) Redux - https://egghead.io/courses/getting-started-with-redux
     (EN) MobX - https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx
-    3) Different perversions, using NodeJS EventEmitter
+    3) Other approaches, e.g. using NodeJS EventEmitter or other :)
 
 9.	**Lifecycle components.**
 
