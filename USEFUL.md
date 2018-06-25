@@ -20,7 +20,7 @@
 3.	Context instead of Redux - https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c
 4.	Using event emitter - https://www.codementor.io/mokanaranganthayaparan/build-simple-react-apps-using-eventemitters-870b89w4z
 
-## ** Free BOOKS**
+## **Free BOOKS**
 1. The Complete Redux Book https://leanpub.com/redux-book
 2. React bits https://vasanthk.gitbooks.io/react-bits/
 3. Patterns - https://krasimir.gitbooks.io/react-in-patterns/content/
@@ -34,5 +34,6 @@
 6. React Amsterdam conf https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/playlists
 7. React london conf https://www.youtube.com/channel/UCV4LIEkC0S9KUAPDm2g4mNQ/videos
 
-## **WEBPACK**
-1. Code splitting: https://blog.usejournal.com/webpack-4-universal-code-splitting-in-react-the-inventors-are-back-baby-453745f9665d
+## **SETTING UP THE PROJECT**
+1. Webpack Code splitting: https://blog.usejournal.com/webpack-4-universal-code-splitting-in-react-the-inventors-are-back-baby-453745f9665d
+2. Setting React Hot Loader: https://blog.logrocket.com/setup-react-hotloader-in-10-minutes-3175dfdbf38a
