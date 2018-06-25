@@ -33,3 +33,6 @@
 5. Facebook confs https://reactjs.org/community/videos.html
 6. React Amsterdam conf https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw/playlists
 7. React london conf https://www.youtube.com/channel/UCV4LIEkC0S9KUAPDm2g4mNQ/videos
+
+## **WEBPACK**
+1. Code splitting: https://blog.usejournal.com/webpack-4-universal-code-splitting-in-react-the-inventors-are-back-baby-453745f9665d
