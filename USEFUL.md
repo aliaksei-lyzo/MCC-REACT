@@ -19,6 +19,8 @@
 2.	Общие паттерны - https://habrahabr.ru/post/309422/
 3.	Context instead of Redux - https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c
 4.	Using event emitter - https://www.codementor.io/mokanaranganthayaparan/build-simple-react-apps-using-eventemitters-870b89w4z
+5.    Context (En) https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c
+6.    Pointer events (En) https://medium.com/@wesharehoodies/pointer-events-with-react-the-why-how-what-617a5b51dbb2
 
 ## **Free BOOKS**
 1. The Complete Redux Book https://leanpub.com/redux-book
