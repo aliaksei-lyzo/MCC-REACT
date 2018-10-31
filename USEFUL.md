@@ -21,6 +21,7 @@
 4.	Using event emitter - https://www.codementor.io/mokanaranganthayaparan/build-simple-react-apps-using-eventemitters-870b89w4z
 5.    Context (En) https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c
 6.    Pointer events (En) https://medium.com/@wesharehoodies/pointer-events-with-react-the-why-how-what-617a5b51dbb2
+7.    Hooks (alpha) https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889
 
 ## **Free BOOKS**
 1. The Complete Redux Book https://leanpub.com/redux-book
